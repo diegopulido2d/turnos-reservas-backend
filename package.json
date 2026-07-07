@@ -1,0 +1,24 @@
+{
+  "name": "turnos-reservas-backend",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/diegopulido2d/turnos-reservas-backend#readme",
+  "bugs": {
+    "url": "https://github.com/diegopulido2d/turnos-reservas-backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegopulido2d/turnos-reservas-backend.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Corte de cabello",
+    "description": "Corte moderno y estilo profesional",
+    "duration": 30,
+    "price": 25,
+    "category": "Cabello",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Manicura",
+    "description": "Cuidado y embellecimiento de uñas",
+    "duration": 45,
+    "price": 35,
+    "category": "Uñas",
+    "available": false,
+    "deleted": true,
+    "deletedAt": "2026-07-07T03:42:20.933Z"
+  }
+]
